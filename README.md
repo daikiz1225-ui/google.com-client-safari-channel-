@@ -1,1 +1,1 @@
-# google.com-client-safari-channel-
+verselでデプロイしてね
